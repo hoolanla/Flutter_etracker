@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "612888390087",
+    "firebase_url": "https://transport-tracke-1562456245932.firebaseio.com",
+    "project_id": "transport-tracke-1562456245932",
+    "storage_bucket": "transport-tracke-1562456245932.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:612888390087:android:7e6c2ada5b63b8b6",
+        "android_client_info": {
+          "package_name": "com.example.flutterbase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "612888390087-l4us20f2sst5jcff6sreaafj42egt9qe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTqnxslHznFC57Grt-16Ar8Sck7Fyuc_U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "612888390087-l4us20f2sst5jcff6sreaafj42egt9qe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:612888390087:android:1c094b3c26657284",
+        "android_client_info": {
+          "package_name": "com.example.onlinestore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "612888390087-l4us20f2sst5jcff6sreaafj42egt9qe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTqnxslHznFC57Grt-16Ar8Sck7Fyuc_U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "612888390087-l4us20f2sst5jcff6sreaafj42egt9qe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:612888390087:android:ec344c1c0574809b",
+        "android_client_info": {
+          "package_name": "com.unboxit.flutter_etracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "612888390087-l4us20f2sst5jcff6sreaafj42egt9qe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTqnxslHznFC57Grt-16Ar8Sck7Fyuc_U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "612888390087-l4us20f2sst5jcff6sreaafj42egt9qe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
